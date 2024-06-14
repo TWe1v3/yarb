@@ -54,7 +54,7 @@
             "key": "debb0290-c14b-4af2-b74d-5aae6179e097"
         },
         "dingtalk": {
-            "enabled": true,
+            "enabled": false,
             "secrets": "DINGTALK_KEY",
             "key": "95276f81da6af5ad976ecda4c9743887a15cc1fed3b4e82ecd44837ca9e46e43"
         },
