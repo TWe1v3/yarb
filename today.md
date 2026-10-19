@@ -1,43 +1,44 @@
-# 每日安全资讯（2026-10-18）
+# 每日安全资讯（2026-10-19）
 
 - SecWiki News
-  - [SecWiki News 2026-10-17 Review](http://www.sec-wiki.com/?2026-10-17)
+  - [SecWiki News 2026-10-18 Review](http://www.sec-wiki.com/?2026-10-18)
 - 白帽Wiki - 一个简单的wiki
-  - [[2026]sub6api -前AI时代的OldSchool手艺人打造,无OpenAI降智,无Claude封号](https://key08.com/index.php/2026/10/17/3365.html)
-- 全频带阻塞干扰
-  - [OpenAI 的商业反窃密策略，你做到了吗？](https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959586&idx=1&sn=ce1524fa50dbf0caf7c8d7c31f7e1268)
-- 看雪学苑
-  - [SDC2026议题预告 | 物理世界自动化攻防：Agent 小队无人值守 IoT 漏洞挖掘实践](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622904&idx=1&sn=89006d52e87c01402146d6b270efaa9f)
-  - [一台"锁死"的 Pixel 7 自救记：把 GhostLock 内核漏洞移植到真机 root](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458622904&idx=2&sn=36915887042b42ce81d9a8043bc026e4)
-- 我的安全视界观
-  - [我的读书笔记：写作是留给自己的吸管](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488123&idx=1&sn=11f0969c1d668339096059d4e0bba9d1)
-- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
-  - [苹果 iPhone 18 Pro Max 手机刷新纪录：单周单品国内激活近 90 万台](https://blog.upx8.com/%E8%8B%B9%E6%9E%9C-iPhone-18-Pro-Max-%E6%89%8B%E6%9C%BA%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95-%E5%8D%95%E5%91%A8%E5%8D%95%E5%93%81%E5%9B%BD%E5%86%85%E6%BF%80%E6%B4%BB%E8%BF%91-90-%E4%B8%87%E5%8F%B0)
-  - [调查：Anthropic员工比普通公众更相信AI具有非凡的潜力](https://blog.upx8.com/%E8%B0%83%E6%9F%A5-Anthropic%E5%91%98%E5%B7%A5%E6%AF%94%E6%99%AE%E9%80%9A%E5%85%AC%E4%BC%97%E6%9B%B4%E7%9B%B8%E4%BF%A1AI%E5%85%B7%E6%9C%89%E9%9D%9E%E5%87%A1%E7%9A%84%E6%BD%9C%E5%8A%9B)
-  - [DeepSeek 发布 V4.1 Flash 1017模型](https://blog.upx8.com/DeepSeek-%E5%8F%91%E5%B8%83-V4-1-Flash-1017%E6%A8%A1%E5%9E%8B)
-  - [🖼 安全公司Calif展示iPhone 18 Pro完美越狱演示](https://blog.upx8.com/%E5%AE%89%E5%85%A8%E5%85%AC%E5%8F%B8Calif%E5%B1%95%E7%A4%BAiPhone-18-Pro%E5%AE%8C%E7%BE%8E%E8%B6%8A%E7%8B%B1%E6%BC%94%E7%A4%BA)
-  - [英特尔CEO陈立武发声谈及特朗普政府](https://blog.upx8.com/%E8%8B%B1%E7%89%B9%E5%B0%94CEO%E9%99%88%E7%AB%8B%E6%AD%A6%E5%8F%91%E5%A3%B0%E8%B0%88%E5%8F%8A%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C)
-  - [美银、花旗出手限制AI Agent访问客户账户](https://blog.upx8.com/%E7%BE%8E%E9%93%B6-%E8%8A%B1%E6%97%97%E5%87%BA%E6%89%8B%E9%99%90%E5%88%B6AI-Agent%E8%AE%BF%E9%97%AE%E5%AE%A2%E6%88%B7%E8%B4%A6%E6%88%B7)
-  - [AI失控入侵印度企业系统！机密记录遭读取竟无人察觉](https://blog.upx8.com/AI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%E5%8D%B0%E5%BA%A6%E4%BC%81%E4%B8%9A%E7%B3%BB%E7%BB%9F-%E6%9C%BA%E5%AF%86%E8%AE%B0%E5%BD%95%E9%81%AD%E8%AF%BB%E5%8F%96%E7%AB%9F%E6%97%A0%E4%BA%BA%E5%AF%9F%E8%A7%89)
-- 青衣十三楼飞花堂
-  - [小小四的日常](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247490018&idx=1&sn=10e1754abec32a5f72e6d57f73d3696b)
-- 黑鸟
-  - [iOS 27.0.1完整攻击链：从消息一键RCE到Chollima持久化越狱](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189367&idx=1&sn=44342bec2538bd6384c4b87bf94b62f7)
-- 安全圈
-  - [【安全圈】程序员为女友抢号搞瘫医院挂号系统](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=1&sn=62452dec7ffbb0c77a86ee1e051297e4)
-  - [【安全圈】Linux内核爆出9.3分超高危漏洞，可“越狱”虚拟机攻击宿主机](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=2&sn=870c96014815465341569810ecc94d94)
-  - [【安全圈】黑客利用 Collabora RCE 漏洞为 Nextcloud 服务器植入后门](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079381&idx=3&sn=83fe8f1d0aa273a7e5c0ca6d4a83d64e)
-- 丁爸 情报分析师的工具箱
-  - [【开源报告】近30日全球安全态势-美国视角下的中美竞争](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157755&idx=1&sn=36680e1c628784fe51c2b779f0e81843)
-- 极客公园
-  - [硅谷爆火的两万块智能床，是智商税吗？我睡了 100 天](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114942&idx=1&sn=32f71803ef5f17fd47e9204d1af7a652)
-  - [1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114935&idx=1&sn=5362ed733992d5f4edf9ad22b1e66d23)
-  - [iPhone Duo 一秒售罄，发货排到明年；马斯克：考虑自建电商平台；谷歌创始人：AI 正开始自己造自己 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114930&idx=1&sn=daf3b75be76942ea891dc4a8ef24cc70)
-- 安全分析与研究
-  - [工具调用最小权限与能力降级](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497309&idx=1&sn=0fda6be23644c8689ee83758a770b443)
+  - [[2026]ClaudeCode 2.1.30x版本风控-Anthropic的追踪中转站的技术 x2](https://key08.com/index.php/2026/10/19/3369.html)
+- ArthurChiao's Blog
+  - [When AI Amplifies the Upstream: An Organizational Shift Underway (2026)](https://arthurchiao.art/blog/when-ai-amplifies-the-upstream/)
 - 奇客Solidot–传递最新科技情报
-  - [游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易](https://www.solidot.org/story?sid=85638)
-  - [天文学家发现第一颗绿色恒星](https://www.solidot.org/story?sid=85637)
-  - [GNOME 面向普通用户发布 GNOME OS Preview](https://www.solidot.org/story?sid=85636)
+  - [指纹显示秦始皇兵马俑的制作者有男有女有儿童](https://www.solidot.org/story?sid=85643)
+  - [退休教授因阻止 Uber Eats 机器人送货被捕](https://www.solidot.org/story?sid=85642)
+  - [内核开发者递交代码无需声明是否 AI 辅助编写](https://www.solidot.org/story?sid=85641)
+  - [Meta 新增条款允许其抓取客户内容并用于训练 AI](https://www.solidot.org/story?sid=85640)
+- 青衣十三楼飞花堂
+  - [收到重阳短信](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247490022&idx=1&sn=c0168c9e1d354b4c6862186bd1d34caa)
+- 我的安全视界观
+  - [影子端点专项扫描：AI "用进"安全的一次实践](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488142&idx=1&sn=53f068608266cd4d018cf465f22facae)
+- 天御攻防实验室
+  - [a16z举办AI网络研究员晚宴](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487256&idx=1&sn=6681a55373dbec39b3d23b322a347e6d)
+- 丁爸 情报分析师的工具箱
+  - [【工具】开源免费视频分析平台-rebucca](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157767&idx=1&sn=8310485ed4fdd6a047948fce8f0f73cc)
+  - [【开源报告】美军徒步行军组织与实施研究](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157767&idx=2&sn=f2b73eecdc394b7e3e748484b73b254b)
+- 极客公园
+  - [造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114962&idx=1&sn=6cda27fb6674cc8166cba49dfa3cf25d)
+  - [DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653114955&idx=1&sn=3381a43b5e47c14fba8bbaa298bf0dbe)
+- 安全客
+  - [3.5万次请求、翻找泄露密钥：失控AI智能体围猎高德地图，运营者却毫不知情](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790587&idx=1&sn=38aa20efb77571be0a0fed789da1789f)
+- 黑鸟
+  - [第一把用人工智能全流程生成的3D打印手枪](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189379&idx=1&sn=57d64142c172c16c345f61ba9dfaa174)
+- 安全圈
+  - [【安全圈】Skyticket 旅行预订网站遭黑客攻击，6140 名平台用户信用卡信息外泄](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079392&idx=1&sn=21e75e487b508bd20850baafe3114343)
+  - [【安全圈】OpenCode披露安全漏洞，控制台用户第三方API密钥或遭泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079392&idx=2&sn=065ddfcf11b031a8c154f04a0a06866e)
+  - [【安全圈】伪造的 Arch Linux 软件包以 root 权限推送恶意软件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079392&idx=3&sn=dc161ca3b5c81ea4e70e4d51d84b02c0)
+- 安全分析与研究
+  - [跨工具数据流污染与污点分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497310&idx=1&sn=8a685d64df4fb54e9f917d91f9233f38)
+- 火绒安全
+  - [重阳节 | 九九登高望 岁岁又重阳](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538288&idx=1&sn=c22c7c7fade00a90a05d455b4bef3198)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538288&idx=2&sn=adaedfd0c53a333bcf52ac5abf0ed3ce)
+- 迪哥讲事
+  - [有关ai时代漏洞挖掘的探讨](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499662&idx=1&sn=d3d379c837f1262a937cacd5f17901b5)
+- 非尝咸鱼贩
+  - [在尼科西亚“速通”南北塞浦路斯](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247486133&idx=1&sn=25fd5af12cc9a7223274dcd901e4e052)
 - 网安寻路人
-  - [人工智能技术出口管制的基本逻辑：保护特定技术，保留开放通道](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508907&idx=1&sn=c87718bf838f13ac7a88acde820df044)
+  - [人工智能技术出口管理的分级逻辑：禁止与限制](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508931&idx=1&sn=792ffc9938ab3bf00f8bc6835a24ebe5)
