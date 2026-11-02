@@ -1,54 +1,41 @@
-# 每日安全资讯（2026-11-01）
+# 每日安全资讯（2026-11-02）
 
-- 奇客Solidot–传递最新科技情报
-  - [思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码](https://www.solidot.org/story?sid=85764)
-  - [Sam Altman 认为 PC 内存闲置太糟糕](https://www.solidot.org/story?sid=85763)
-  - [中国首次载人登月计划由三人组成其中两人将着陆月球表面](https://www.solidot.org/story?sid=85762)
-  - [黑客仅用 20 分钟就从币安盗取了 63 亿美元加密货币](https://www.solidot.org/story?sid=85761)
-  - [Kogui 族人谈 AI](https://www.solidot.org/story?sid=85760)
-- Swings' Blog 浮生若梦
-  - [议题分享： ZeroMDASH：领域自适应的Agent-Native 通用漏洞挖掘工程](https://bestwing.me/zeromdash-agent-native-vulnerability-mining.html)
-- 黑海洋 - AI工具与技术教程｜免费资源与开发实战
-  - [LocModel：越狱大模型、AI 绘图、视频生成和 Agent 都装进本地电脑](https://blog.upx8.com/LocModel-AI-Agent)
-  - [RSSHub 公共实例整理与自建教程](https://blog.upx8.com/RSSHub)
-  - [workbuddy一键完成所有任务（多账户）](https://blog.upx8.com/workbuddy)
-  - [CVE-2026-98432 漏洞分析与修复指南](https://blog.upx8.com/CVE-2026-98432)
-  - [币安加密货币史上最大盗窃案的矛头指向朝鲜](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%9B%97%E7%AA%83%E6%A1%88%E7%9A%84%E7%9F%9B%E5%A4%B4%E6%8C%87%E5%90%91%E6%9C%9D%E9%B2%9C)
 - SecWiki News
-  - [SecWiki News 2026-10-31 Review](http://www.sec-wiki.com/?2026-10-31)
-- 黑鸟
-  - [偷完密码还让AI写报告：新型木马用大模型给受害者排优先级](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189628&idx=1&sn=b49456e51d703ba1b3c56860d9a0fb87)
-- 安全内参
-  - [国内群晖NAS设备遭勒索攻击，官方建议尽快排查更新](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516811&idx=1&sn=8ec8e6aac1f429accbd887ba2446ebc3)
-- 网安志异
-  - [现场笔记之一个月，两个爬虫](https://mp.weixin.qq.com/s?__biz=MzAxNzYyNzMyNg==&mid=2664232903&idx=1&sn=50b5f83a4a635eff21dd84c6631d36e9)
-- 奶牛安全
-  - [数据泄露情报2026.10.31 - 400G巴西证券交](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247490103&idx=1&sn=2d1eb19398df66b1228eea540b973064)
-  - [数据泄露情报2026.10.31 - 400G巴西证券交易所官方授权分销商资料](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247490093&idx=1&sn=70f2489d35eb62b456a1511a6a1a326b)
-- 中国信息安全
-  - [论坛·原创 | 国际冲突背景下的人工智能攻防研究](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268179&idx=1&sn=b1ac19dcc0e3d9687f274d31cd8ca18a)
-  - [CNCERT | 关于新型僵尸网络VeilDHT大范围传播的风险提示](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268179&idx=2&sn=ed92805315a7d05243f5f9a078c93b1d)
-  - [行业 | 腾讯发布WorkBuddy企业版安全白皮书](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268179&idx=3&sn=ae7c5d5dd1f482e2429e7f731bdcae1b)
-  - [关注 | 公安机关公布3起不履行数据安全保护义务或网络安全保护义务案](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268179&idx=4&sn=f6b41e47e2d2af5f5252cd58b25826ae)
-- 安全圈
-  - [【安全圈】Gitee 725 万个公开仓库被扫出 26400 个有效凭证，9473 个是阿里云密钥](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079646&idx=1&sn=b67092a6e295dc9135d4f0304a210caa)
-  - [【安全圈】无印良品遭黑客入侵，约 2726万条客户信息外泄](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079646&idx=2&sn=cb164b43f8161ed86d04fc5f85f660b7)
-  - [【安全圈】Hugging Face 恶意软件活动卷土重来，劫持 GPU 进行加密货币挖矿](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079646&idx=3&sn=d482d796b6a983027c050b0687351a7c)
-- 看雪学苑
-  - [仿冒 CCleaner 投递 GhostDesk 木马](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623401&idx=1&sn=783b121c96da8431137b5457726a994e)
-  - [当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623401&idx=2&sn=ef36c392f2014060a978488063d324e0)
-- 安全分析与研究
-  - [Agent委派链与责任追踪](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497335&idx=1&sn=87ec54e7f27ab5aea3527f067ffb303e)
-- 丁爸 情报分析师的工具箱
-  - [【开源报告】俾路支解放军（BLA）深度调研报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157912&idx=1&sn=64f8914db05b9729ae0af1a33c3aae1e)
-  - [【会议】COSINT 2026 议程｜闭门讲习班、深暗网、深伪取证（11.13-11.16）贵阳](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157912&idx=2&sn=e48984d4faea544186ecbb9333166cdf)
-- 天御攻防实验室
-  - [美国公布2026财年情报预算：国家情报计划拨款781亿美元，军事情报计划309亿美元](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487304&idx=1&sn=4d0a7e388f4d09b5e32742f5a3dfd47e)
+  - [SecWiki News 2026-11-01 Review](http://www.sec-wiki.com/?2026-11-01)
+- 奇客Solidot–传递最新科技情报
+  - [Google AI Mode 未给网站带来流量](https://www.solidot.org/story?sid=85767)
+  - [数据中心抵消了过去 15 年美国的减排努力](https://www.solidot.org/story?sid=85766)
+  - [NASA 征询拯救哈勃望远镜的方案](https://www.solidot.org/story?sid=85765)
+- 黑海洋 - AI工具与技术教程｜免费资源与开发实战
+  - [币安恢复提现后遭遇小高峰：净流出36.4亿美元](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E6%81%A2%E5%A4%8D%E6%8F%90%E7%8E%B0%E5%90%8E%E9%81%AD%E9%81%87%E5%B0%8F%E9%AB%98%E5%B3%B0-%E5%87%80%E6%B5%81%E5%87%BA36-4%E4%BA%BF%E7%BE%8E%E5%85%83)
+  - [域名 / IP 被墙了怎么办？前端多入口容灾的完整落地方案](https://blog.upx8.com/IP)
+  - [前端高可用实战：扛住 DDoS / CC，应对域名与 IP 被封的多入口容灾方案](https://blog.upx8.com/DDoS-CC-IP)
+  - [免费版 WAF 规则不够用？Worker 自动拉黑扫描 IP 方案](https://blog.upx8.com/WAF-Worker-IP)
+  - [Clearcam：不换摄像头，给现有 RTSP 监控加上本地 AI](https://blog.upx8.com/Clearcam-RTSP-AI)
+  - [币安：已补回90%被盗资产 计划周日恢复提现](https://blog.upx8.com/%E5%B8%81%E5%AE%89-%E5%B7%B2%E8%A1%A5%E5%9B%9E90-%E8%A2%AB%E7%9B%97%E8%B5%84%E4%BA%A7-%E8%AE%A1%E5%88%92%E5%91%A8%E6%97%A5%E6%81%A2%E5%A4%8D%E6%8F%90%E7%8E%B0)
+- 我的安全视界观
+  - [ShadowScan：让 AI 参与判定的影子端点扫描器](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488183&idx=1&sn=e5cdf7d011e0810660d2c9bd06ce62b6)
+- 安全学术圈
+  - [南洋理工大学、武汉大学 | LocalAlign：通过近目标对抗训练提升提示注入防御泛化能力](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496099&idx=1&sn=a6329de40b80d57f4a1f8f8a33a2279e)
 - 极客公园
-  - [个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653115761&idx=1&sn=58624dc451e8d995fddf0cdd7c31ae23)
-  - [DeepSeek，怎么就变成了一条「大肥鱼」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653115760&idx=1&sn=f6dbaf67947689c1efbdba315926a207)
-  - [苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653115752&idx=1&sn=d92c496f1d1ea9c2413fb7616258ac56)
-- 复旦白泽战队
-  - [活动回顾 | 第四期复旦白泽青年学者论坛](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247500146&idx=1&sn=beddce5a36f6af973cb348006dcd4568)
-- 矛和盾的故事
-  - [反AI逆向方法论-LLVM-Pass落地](https://mp.weixin.qq.com/s?__biz=MzU3MDc0MTY1MA==&mid=2247484157&idx=1&sn=56c7196f7474951cbbe5ea7dc7eddf66)
+  - [造物 100 #12｜能读脑电的帽子、手指比划就能打字的键盘、自动对准星空的天文相机](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653115783&idx=1&sn=d70c0d6812a6b6bd31e9934691ce578b)
+  - [DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653115778&idx=1&sn=370c147c81188f1f8e4552974e893985)
+- 安全圈
+  - [【安全圈】24小时内超6万次攻击针对WordPress RCE漏洞，更新过程无需登录就可以利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079657&idx=1&sn=0e7f6a51f91ae4c6aadcb6d7ca13c2b3)
+  - [【安全圈】日本航空遭遇第三方数据泄露，暴露乘客信息](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079657&idx=2&sn=0312f3c3c447b408d319b55721289b3e)
+  - [【安全圈】黑客利用 Cisco SD-WAN 漏洞部署定制的 KeyDrift 恶意软件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079657&idx=3&sn=62b5b110843a42aca0265bbe72c31840)
+- 七夜安全博客
+  - [某WordPress付费插件严重漏洞在野攻击分析以及漏洞复现](https://mp.weixin.qq.com/s?__biz=MzIwODIxMjc4MQ==&mid=2651005955&idx=1&sn=6a0155af6d69a89217fee6d888a1eede)
+- 丁爸 情报分析师的工具箱
+  - [【工具】人工智能浏览器：ego lite](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157921&idx=1&sn=024ab0e98883721ce8ef3bbced847a9f)
+  - [【会议】COSINT 2026 议程｜闭门讲习班、深暗网、深伪取证（11.13-11.16）贵阳](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157921&idx=2&sn=b63b25569d43c13c865d9666f4743f1a)
+- 火绒安全
+  - [万圣节 | 万圣节 一起来鉴鬼！](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538581&idx=1&sn=f43f91e69cf35305c4bbb23214a6ac8b)
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538581&idx=2&sn=4315947640e410ed2a3edcabb25a2a3b)
+- 安全分析与研究
+  - [能力令牌与最小权限即时发放](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497336&idx=1&sn=ee2bd5fa25eefecbba7ff5fb9ab14c1e)
+- NISL实验室
+  - [网络研究院学生团队RedbudAI战队获GEEKCON 2026安全极客大赛“AI黑客极限挑战赛”赛道冠军](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247485872&idx=1&sn=de7ea9f0e45eb67a1bdd30cef997f6a7)
+- 奶牛安全
+  - [13G美国家族资产数据泄露](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247490114&idx=1&sn=c3dc9b4c36290c10b7829f9d6d16020d)
+  - [数据泄露情报2026.11.1 - 13G美国家族资产管理机构资料](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247490107&idx=1&sn=04ddb4a7caf4d5e78db99bafd21cf8df)
