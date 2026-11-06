@@ -1,102 +1,108 @@
-# 每日安全资讯（2026-11-05）
+# 每日安全资讯（2026-11-06）
 
+- SecWiki News
+  - [SecWiki News 2026-11-05 Review](http://www.sec-wiki.com/?2026-11-05)
 - 绿盟科技技术博客
-  - [公安部信息安全产品检测中心颁发首张人工智能渗透测试系统检测证书](https://blog.nsfocus.net/%e5%85%ac%e5%ae%89%e9%83%a8%e4%bf%a1%e6%81%af%e5%ae%89%e5%85%a8%e4%ba%a7%e5%93%81%e6%a3%80%e6%b5%8b%e4%b8%ad%e5%bf%83%e9%a2%81%e5%8f%91%e9%a6%96%e5%bc%a0%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e6%b8%97/)
-  - [绿盟科技登榜AI赋能安全技术路线图，入围数量居安全厂商首位](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e7%99%bb%e6%a6%9cai%e8%b5%8b%e8%83%bd%e5%ae%89%e5%85%a8%e6%8a%80%e6%9c%af%e8%b7%af%e7%ba%bf%e5%9b%be%ef%bc%8c%e5%85%a5%e5%9b%b4%e6%95%b0%e9%87%8f%e5%b1%85%e5%ae%89/)
-  - [Linux内核IPv4 TCP释放后重用漏洞（CVE-2026-98432）通告](https://blog.nsfocus.net/linux%e5%86%85%e6%a0%b8ipv4-tcp%e9%87%8a%e6%94%be%e5%90%8e%e9%87%8d%e7%94%a8%e6%bc%8f%e6%b4%9e%ef%bc%88cve-2026-98432%ef%bc%89%e9%80%9a%e5%91%8a/)
-- 奇客Solidot–传递最新科技情报
-  - [AMD 营收预计将首次超过英特尔](https://www.solidot.org/story?sid=85799)
-  - [韩国游戏 PC 启动器被植入恶意代码](https://www.solidot.org/story?sid=85798)
-  - [法国银行被盗走 1.18 亿欧元](https://www.solidot.org/story?sid=85797)
-  - [Firefox 测试迷你窗口功能](https://www.solidot.org/story?sid=85796)
-  - [富士胶片因 AI 热加大磁带产能](https://www.solidot.org/story?sid=85795)
-  - [Nexus Mods 公布 AI 生成内容政策](https://www.solidot.org/story?sid=85794)
-  - [苹果开始在中国推出 Apple Intelligence](https://www.solidot.org/story?sid=85793)
-  - [出生前后大脑会清理突变神经元](https://www.solidot.org/story?sid=85792)
-  - [SUSE 因 AI 而计划裁员十分之一](https://www.solidot.org/story?sid=85791)
-  - [Bethesda 宣布《上古卷轴VI：哨兵》](https://www.solidot.org/story?sid=85790)
-  - [币安称黑客通过虚假工作面试入侵工程师笔记本电脑](https://www.solidot.org/story?sid=85789)
+  - [这轮数据安全执法，罚的不是”被黑”，是”没做”](https://blog.nsfocus.net/%e8%bf%99%e8%bd%ae%e6%95%b0%e6%8d%ae%e5%ae%89%e5%85%a8%e6%89%a7%e6%b3%95%ef%bc%8c%e7%bd%9a%e7%9a%84%e4%b8%8d%e6%98%af%e8%a2%ab%e9%bb%91%ef%bc%8c%e6%98%af%e6%b2%a1%e5%81%9a/)
+  - [首张！人工智能渗透测试系统（增强级）检测证书揭秘](https://blog.nsfocus.net/%e9%a6%96%e5%bc%a0%ef%bc%81%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e6%b8%97%e9%80%8f%e6%b5%8b%e8%af%95%e7%b3%bb%e7%bb%9f%ef%bc%88%e5%a2%9e%e5%bc%ba%e7%ba%a7%ef%bc%89%e6%a3%80%e6%b5%8b%e8%af%81%e4%b9%a6/)
+  - [绿盟科技深度参与2026世界互联网大会乌镇峰会](https://blog.nsfocus.net/%e7%bb%bf%e7%9b%9f%e7%a7%91%e6%8a%80%e6%b7%b1%e5%ba%a6%e5%8f%82%e4%b8%8e2026%e4%b8%96%e7%95%8c%e4%ba%92%e8%81%94%e7%bd%91%e5%a4%a7%e4%bc%9a%e4%b9%8c%e9%95%87%e5%b3%b0%e4%bc%9a/)
 - 黑海洋 - AI工具与技术教程｜免费资源与开发实战
-  - [币安63亿美元被盗事件全解析：从虚假面试到四分钟盗币的完整入侵链](https://blog.upx8.com/%E5%B8%81%E5%AE%89%E8%B5%84%E4%BA%A7%E8%A2%AB%E7%9B%97%E4%BA%8B%E4%BB%B6%E6%8A%A5%E5%91%8A-%E9%BB%91%E5%AE%A2%E7%BB%8F%E8%99%9A%E5%81%87%E9%9D%A2%E8%AF%95%E5%85%A5%E4%BE%B5)
-  - [欧洲冷冻柜攻击：一场“低技术”入侵暴露的系统性风险](https://blog.upx8.com/%E8%B6%85%E5%B8%82-%E5%86%B7%E6%9F%9C%E5%8F%98%E6%9A%96%E7%AE%B1-%E5%8F%AA%E6%98%AF%E5%88%9A%E5%BC%80%E5%A7%8B-%E8%8B%B1%E6%AC%A7%E5%AE%98%E5%91%98%E8%AD%A6%E5%91%8A-%E6%9B%B4%E5%A4%9A%E6%94%BB%E5%87%BB%E6%81%90%E5%9C%A8%E8%B7%AF%E4%B8%8A)
-  - [用 Docker 自建在线阅读服务：把 Legado 书源搬进 Reader](https://blog.upx8.com/Docker-Legado-Reader)
-  - [myDV电视大屏上刷抖音的第三方客户端](https://blog.upx8.com/myDV)
-  - [红果TV电视大屏上看红果短剧和漫剧](https://blog.upx8.com/TV)
-  - [字节将大面积限制员工使用Claude、Codex等外部AI工具](https://blog.upx8.com/%E5%AD%97%E8%8A%82%E5%B0%86%E5%A4%A7%E9%9D%A2%E7%A7%AF%E9%99%90%E5%88%B6%E5%91%98%E5%B7%A5%E4%BD%BF%E7%94%A8Claude-Codex%E7%AD%89%E5%A4%96%E9%83%A8AI%E5%B7%A5%E5%85%B7)
+  - [印度金融机构遭AI工具驱动黑客攻击：“狡猾猎鹰”组织持续活跃](https://blog.upx8.com/%E5%8D%B0%E5%BA%A6%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E9%81%AD%E5%88%A9%E7%94%A8AI%E5%B7%A5%E5%85%B7%E7%9A%84%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
+  - [法国区域性银行遭网络攻击 约1亿欧元被盗](https://blog.upx8.com/%E6%B3%95%E5%9B%BD%E5%8C%BA%E5%9F%9F%E6%80%A7%E9%93%B6%E8%A1%8C%E9%81%AD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB-%E7%BA%A61%E4%BA%BF%E6%AC%A7%E5%85%83%E8%A2%AB%E7%9B%97)
+  - [法国血库遭黑客攻击：医疗冷链系统成网络攻击新靶点](https://blog.upx8.com/%E7%BB%A7%E6%AC%A7%E6%B4%B2%E8%B6%85%E5%B8%82%E5%86%B7%E6%9F%9C%E4%B9%8B%E5%90%8E-%E6%B3%95%E5%9B%BD%E8%A1%80%E5%BA%93%E9%81%AD%E5%88%B0%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB)
+  - [DreamHost 数据泄露事件分析：会话令牌窃取与文件管理器漏洞](https://blog.upx8.com/%E4%B8%BB%E6%9C%BA%E6%9C%8D%E5%8A%A1%E5%95%86DreamHost%E5%AE%A2%E6%88%B7%E6%96%87%E4%BB%B6%E5%92%8C%E9%82%AE%E7%AE%B1%E6%B3%84%E9%9C%B2)
+- HackerNews
+  - [研究人员发现隐藏在 OpenAI Codex 越狱工具包中的提示广告软件](http://0.0.0.0:8080/post/64880)
+  - [NIKKE PC 游戏启动器被入侵，用于传播远程访问和数据窃取恶意软件](http://0.0.0.0:8080/post/64879)
+  - [网络攻击扰乱法国血液储存制冷系统](http://0.0.0.0:8080/post/64878)
+  - [Vercel 推出针对会话 Cookie 被盗攻击的新防护](http://0.0.0.0:8080/post/64877)
+  - [Zyxel 修复被用于入侵近千台网络交换机的零日漏洞](http://0.0.0.0:8080/post/64876)
+  - [DreamHost 确认数据泄露，暴露 FTP 登录凭据和 webmail 会话](http://0.0.0.0:8080/post/64875)
 - 威努特安全网络
-  - [IDC权威认可！威努特入选“AI赋能OT安全”推荐厂商](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651144947&idx=1&sn=cf872727379efff02c7337b02d525562)
-- 微步在线研究响应中心
-  - [原创漏洞 | 微步XGPT发现 Apple macOS 多个漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247509026&idx=1&sn=034b5ea8214724ba448e152f29b5281b)
-- 安全内参
-  - [AI访问权限遭盗用，多家企业损失近千万元](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516839&idx=1&sn=54681ced91facf0a2a4791d94785af28)
-  - [多域协同与人机协同：北约启动2026年度“十字剑”网络演习](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516839&idx=2&sn=8ff4a480f829add05aec3ba707294194)
-- 代码卫士
-  - [15年前的雷诺汽车 Linux 导航系统软件被破解 可执行任意 root 命令](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527686&idx=1&sn=f75e5ce428d9d4a5a9d306af91430362)
-  - [因虚假工作面试邀约，币安被盗63亿美元密币](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527686&idx=2&sn=4ab39e33ddb138cf9dedfb1d38f17608)
+  - [威努特自来水厂工业组网方案：筑牢通信底座，守护城市水脉](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651144963&idx=1&sn=5522b34d22d01affd6e071ace07eae55)
+- 奇客Solidot–传递最新科技情报
+  - [印度金融机构遭黑客利用 AI 工具发动的网络攻击](https://www.solidot.org/story?sid=85809)
+  - [同步导致电网呈现周期为一分钟的震荡](https://www.solidot.org/story?sid=85808)
+  - [越南对足球直播盗版者判刑最高一年](https://www.solidot.org/story?sid=85807)
+  - [白宫网络监测到住宅代理活动](https://www.solidot.org/story?sid=85806)
+  - [Bazzite 45 释出](https://www.solidot.org/story?sid=85805)
+  - [Google 和 OpenAI 的模型对特定口音有偏见](https://www.solidot.org/story?sid=85804)
+  - [富钾盐替换普通盐有助于每年预防数百万人死亡](https://www.solidot.org/story?sid=85803)
+  - [Swift 天文台从印尼上空重返大气层](https://www.solidot.org/story?sid=85802)
+  - [任天堂最大 ROM 芯片供应商准备退出](https://www.solidot.org/story?sid=85801)
+  - [新型牙刷通过产生电对抗牙菌斑病原体](https://www.solidot.org/story?sid=85800)
+- 吾爱破解论坛
+  - [吾爱破解论坛技术区“AI”新规已正式上线](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144804&idx=1&sn=eaaab88584aca4b09a981e164f9360e6)
 - 安全客
-  - [币安丢了63亿美元，问题出在一台工程师的笔记本上](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790688&idx=1&sn=1136e5e6f4f7cefe1f1a9f8cc51977ef)
-- 看雪学苑
-  - [SDC2026议题回顾 | 大语言模型驱动的移动软件安全分析实践](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623607&idx=1&sn=01da4724621cdfbc360ddb2122f69bab)
-- 奇安信 CERT
-  - [【已复现】WordPress Core 竞争条件远程代码执行漏洞(CVE-2026-119977)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508010&idx=1&sn=7907e2aaa98df6d9be2a950b5064bac4)
-- 奶牛安全
-  - [数据泄露情报2026.11.4：洛杉矶富人俱乐部Brentwood数据泄露（有富豪资料）](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247490128&idx=1&sn=0b70a91cecafc5f554f0549a8691e257)
-- 信息安全国家工程研究中心
-  - [从一场新闻发布会看“十五五”时期人工智能安全治理方向](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247505516&idx=1&sn=f36638b1417dcd0f3d1e82952e4df358)
-- 极客公园
-  - [一个人用得好 AI，为什么一家公司却用不好？](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116003&idx=1&sn=19224fa211d3e58dce61bdf85138545f)
-  - [国行版苹果 AI 开始测试；ChatGPT 搜索量已达到谷歌 20%；Seedance 被曝五成收入来自海外｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653115901&idx=1&sn=1416b8a828c9f6d94166e45cb318bb80)
-- 天御攻防实验室
-  - [万亿市值，被黑客入侵了几次以后，才开始重视网络安全！](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487320&idx=1&sn=f4c25243c4e65f457b186f032546610c)
+  - [有人把欧洲超市的冷柜调到了50℃，这是第二个月了](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649790689&idx=1&sn=2f92763396458e742d06a05ac48f53ff)
+- 代码卫士
+  - [SonicWall 提醒注意将不再修复的 GMS 软件漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527692&idx=1&sn=a8348dd483d5beeb4f78c1ae81030651)
+  - [Barracuda 修复两个漏洞，可绕过授权和获取 root 权限](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527692&idx=2&sn=793dd615994bcc75e1e2f2b694c927cb)
+- Paper - 知道创宇404实验室
+  - [说同样的话，做不同的事：诊断与引导推理型 VLA 中的文本—动作背离](https://paper.seebug.org/3532)
+- 安全客-有思想的安全新媒体
+  - [有人把欧洲超市的冷柜调到了50℃，这是第二个月了](https://www.anquanke.com/post/id/316435)
+  - [币安丢了63亿美元，问题出在一台工程师的笔记本上](https://www.anquanke.com/post/id/316432)
+  - [12小时攻破AI巨头：Anthropic被AI Agent扒光Slack，前员工的预言应验了](https://www.anquanke.com/post/id/316429)
+  - [潜伏16年的UEFI漏洞：开机那几秒，你的所有防线都还没上线](https://www.anquanke.com/post/id/316426)
+- 数世咨询
+  - [从WorkBuddy实践看腾讯AI Agent安全布局](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247544445&idx=1&sn=20c485e25cc6152a3e25d516ff9fe41d)
+- 腾讯安全威胁情报中心
+  - [你的 AI 编程助手，可能正在后台替木马“打工”：恶意软件 Iris C2Agent 深度分析](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247512178&idx=1&sn=34bc1ad6e406e2c27251b5e45c2b0b6e)
 - 奇安信威胁情报中心
-  - [一句“hi”触发中转站广告：海鸥越狱包如何持久化操控 Codex 输出](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521227&idx=1&sn=fb670b1f78e18163923f6b726b86d76b)
-- 安全牛
-  - [63亿美元收购只是信号：安全团队先回答“敏感数据在哪、谁能访问、AI代理能做什么”](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143141&idx=1&sn=644778d8f4937790b6e8fc1d202da95d)
-  - [NIS2 指令强化董事会个人责任，访问控制违规将追责管理层；从35.7分钟到12.3分钟：网易智企首发CMA审核智能体| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143141&idx=2&sn=4b2985119b2d4f38793f8d1ddfda7b10)
-- 慢雾科技
-  - [美国 OFAC 制裁朝鲜 IT 人员网络相关人员与实体](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247506559&idx=1&sn=a663061445a71eccc81168b1baecd6f0)
-- 安全学术圈
-  - [行业会议 | 第六届全国开源情报技术大会（COSINT 2026）](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496128&idx=1&sn=1dc959cd6595697baaed8cb9cac9ef68)
-- 复旦白泽战队
-  - [CCS 26 | 当越权能力开始“滚雪球”：移动应用标识交换背后的安全陷阱](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247500158&idx=1&sn=cd86515d27817eb6e2267967d7e9d8c1)
-- 微步在线
-  - [ARTEX热门Fork被曝携带后门，可导致RCE](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188616&idx=1&sn=b935cc727b87163e8ed50523f54773fa)
-- 腾讯科恩实验室
-  - [BinaryAI 支持本地 Agent 调用：把云端二进制安全带进日常工作流](https://mp.weixin.qq.com/s?__biz=MzU1MjgwNzc4Ng==&mid=2247513466&idx=1&sn=bd17b35399c8eb4161bc928e7a6abbe7)
-- 丁爸 情报分析师的工具箱
-  - [【开源报告】DARPA认知科学研究项目深度分析报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157954&idx=1&sn=68656032ae78bf6c82871b7bf795437c)
-  - [【会议】COSINT 2026 议程｜闭门讲习班、深暗网、深伪取证（11.13-11.16）贵阳](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157954&idx=2&sn=c6dc0408e2754a6b8b796489409a27b8)
-- 电子物证
-  - [【nfts文件系统数据恢复】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049253&idx=1&sn=49167da96c357be5975e9f78d62de295)
-  - [【截图、录屏能当证据吗？】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651049253&idx=2&sn=f528c20de69d25d88a0c457eedf04169)
-- 情报分析师
-  - [从2026年美国中期选举，看懂一场让历届总统头疼的大考](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650570067&idx=1&sn=4317f959f15f502b3c06f807deeac6f7)
-- 火绒安全
-  - [GitHub投毒暗流：上万恶意URL肆意扩散 警惕批量仓库投毒](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538636&idx=1&sn=5fb35de6619da29c68e81fd4408056a0)
-  - [火绒小问答--「个人版」近期top问题解答](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538636&idx=2&sn=c6f36de0e7897e418aa126eb80057d61)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538636&idx=3&sn=16c27fc07176efc05b3bc1b55fc661b1)
+  - [当“加载模型”变成“执行未知代码”：AI 供应链中的 GPU 挖矿陷阱](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247521244&idx=1&sn=e8992e0f55281e055dbc99ffe2538195)
+- 安全内参
+  - [某大型银行内部系统被黑，近10亿元遭转账窃取](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516847&idx=1&sn=2f9053c7890e76efcecdad5958b9702b)
+  - [亚洲六大航空龙头数据泄露：因IT供应商遭入侵](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516847&idx=2&sn=ff96f9a983ca1ec061dde008daffee99)
+- 黑鸟
+  - [美国白宫网络遭住宅代理渗透 沦为代理流量出口](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189705&idx=1&sn=79a91ac882f3094447799a3dace908ae)
+- 看雪学苑
+  - [吉他能听见你的话吗？——某无线吉他拾音器空中协议逆向：射频与扰码](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623714&idx=1&sn=572d9af31cbf7d53274309765dbefc40)
+  - [APT29 劫持网站分析脚本，向 iOS 和 Android 用户投放漏洞攻击](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623714&idx=2&sn=9dd8e0c92f46194041b7306bba58abcb)
+  - [轻松掌握从内核态隐藏frida，无需重新编译内核](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623714&idx=3&sn=fdf6a7a5cb7f1949f3c7bb2c7af78669)
+- 信息安全国家工程研究中心
+  - [继欧洲超市冷柜之后，法国血库遭到黑客攻击](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247505526&idx=1&sn=f2c9c4798ad14e619be02cba5b457354)
+- 天御攻防实验室
+  - [OpenAI开发了一套自主漏洞挖掘流水线，具备创造新型漏洞利用技术的能力](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487324&idx=1&sn=9fe6fc0945e32f44f5dfca12de260b50)
 - 暗影安全
-  - [ios在野利用涉及ios26、ios27，以发现武器化呈现，请更新至最新版本。](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165821&idx=1&sn=d1931d3a73b955d3ac772c8061790328)
+  - [Telegram Desktop 一键账号接管（CVE-2026-107181）](https://mp.weixin.qq.com/s?__biz=MzI2MzA3OTgxOA==&mid=2657165825&idx=1&sn=a3e7156e0cd3bca21c599e367638a3e5)
+- 安全圈
+  - [【安全圈】白宫专网被卖做代理？总统办公室设备疑遭植入后门](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079711&idx=1&sn=05bdbc8ba75d9805145596493772fbf6)
+  - [【安全圈】潜伏近三个月！DreamHost漏洞致大量主机凭据泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079711&idx=2&sn=63979c6dc888fb4e4dbc4da49a266ae8)
+  - [【安全圈】币安63亿被盗余震！Coinbase转超99%资产至冷钱包](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079711&idx=3&sn=b21a981adb4002765fad3dad5018fe73)
+- 奇安信 CERT
+  - [【已复现】Synology DSM 身份认证绕过漏洞(CVE-2026-13639)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508031&idx=1&sn=be47d2b6316db564dc261a0d5a42bcd1)
+- 安全牛
+  - [攻击流量疯涨却没人入侵成功？PHP2Shell背后的真相比想象中更危险](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143152&idx=1&sn=00d56472c4c8118a6bbad690a6668a6c)
+  - [世界互联网大会发布AI安全治理报告，聚焦模型评测与风险协同处置；CNNVD 发布 10 月漏洞通报：PHP出现超危远程代码执行漏洞| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651143152&idx=2&sn=d12551e524b6003ee6b49cbc88ad711e)
 - 中国信息安全
-  - [论坛·原创 | 国际冲突中生成式人工智能叙事操纵与协同治理研究](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268308&idx=1&sn=defb975c6f1cc48ae172875dce4e758b)
-  - [关注 | 《中国互联网发展报告2026》和《世界互联网发展报告2026》蓝皮书发布](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268308&idx=2&sn=1094f4b475c386859e8fd30fbcb16289)
-  - [发布 | 智能互联网创新发展合作倡议](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268308&idx=3&sn=dc377415ecbb926a2ad9d28401eb6106)
-  - [关注 | 世界互联网大会首次发布全球开放人工智能行动倡议](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268308&idx=4&sn=131c01988740676bca2247c71945bd8a)
-  - [关注 | 世界互联网大会发布《前沿人工智能安全与治理2026：风险认知与协同治理》报告](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268308&idx=5&sn=bb3006c6b9bbd9f11bd8cca6974f3343)
-  - [关注 | 由我国牵头提出的国际标准《信息技术 安全技术 匿名实体鉴别 第4部分：基于弱秘密的机制 补篇1》正式发布](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268308&idx=6&sn=98fc48dfe4ca708ac30f00a891c51659)
-- 国家互联网应急中心CNCERT
-  - [CNVD漏洞周报2026年第43期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502490&idx=1&sn=af8071dc908e2929d02722c6b1a6bf26)
-- NISL实验室
-  - [我只是给域名设了个“别名”，邮箱和网站怎么会被别人接管？](https://mp.weixin.qq.com/s?__biz=MzUxMTEwOTA3OA==&mid=2247485880&idx=1&sn=1cf87d29d9872b9bc83c538c415fb3c7)
-- 墨菲安全
-  - [11月北京沙龙嘉宾及议题预告：AI进入安全工作后，企业正在如何重新做安全](https://mp.weixin.qq.com/s?__biz=MzkwOTM0MjI5NQ==&mid=2247488768&idx=1&sn=2e50b16fa7318a20372f050f1c424c60)
-- Yak Project
-  - [像打补丁一样做代码扫描：一次让审计快60%的硬核优化](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247530614&idx=1&sn=a0a3d77c647f6af956c9ba130a7317fc)
-- 360数字安全
-  - [360亮相北大AI+X青年人才实践发展论坛，联合发布“AI原生人才标准”](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247587188&idx=1&sn=0a3b989380a22dfca6d3cde63861f072)
-- 安全419
-  - [安全419｜一周国际网安资讯：Ivanti零日攻击链再入KEV，Google收购Wiz获批](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247556249&idx=1&sn=e312c09d9ab56e72b066e66b203a1639)
+  - [中国信息安全测评中心主任彭涛：安全筑基 护航低空经济健康有序发展](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268329&idx=1&sn=9317254dedf6dd34424a3922cf961b82)
+  - [《中国信息安全》杂志2026年第10期目录](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664268329&idx=2&sn=64c873595b8a10f7cf83aeec2885792e)
+- 青藤云安全
+  - [看视频｜PHP、Linux连爆漏洞，到处挖洞的AI如何被治住?](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650852128&idx=1&sn=be4789d6216fa9c974c8437881fb0d17)
+- 微步在线
+  - [关于Artex版权的声明](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188622&idx=1&sn=1137917bb02cc6a7630445275044d74f)
+- 极客公园
+  - [办公提效之后，企业级 Agent 开始对经营结果负责](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116051&idx=1&sn=22f6384c2550519ef6608272ad7527cf)
+  - [极客公园创新大会 2027 首批嘉宾揭晓！](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116047&idx=1&sn=a617c1f0aefaa20b8df14418105218d9)
+  - [Apple智能国行上线，苹果大涨超6%重返美股市值第一；英伟达显卡订单排长队，中国客户预计拿到1%；字节限制员工使用个人AI｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116026&idx=1&sn=ea2da6f36d43b94f092855cd6a2bbc87)
+- 深信服千里目安全技术中心
+  - [【漏洞通告】WordPress 更新条件竞争远程代码执行漏洞(CVE-2026-119977)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526358&idx=1&sn=622f133ce8965c60bf31a4a225cfae5f)
+  - [【高级威胁追踪(APT)】一起针对第三方支付机构的定向攻击工具包披露](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247526358&idx=2&sn=ec2dc65ec3b9c03bfb8689c7ce09e59c)
+- 威胁猎人Threat Hunter
+  - [10月被水军围攻品牌TOP20：国内恶意网络水军风险洞察](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247505566&idx=1&sn=4213d073fd4f6a6941e388537d6dc55a)
+- 安全学术圈
+  - [浙江大学 | 用轨迹自适应诱饵拖住、引开并化解自主渗透智能体](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496129&idx=1&sn=784ba8c5fa279f56b4fdbb627e916fd3)
+- 字节跳动技术团队
+  - [每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的"隐形底座"？](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247524066&idx=1&sn=09bbc349ba9edd8ad8a82890256e16a3)
+  - [OpenViking连接业务系统，LLM Wiki一键编译](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247524066&idx=2&sn=34ef93bca435a2d298fbe078aa081c69)
+- 安全研究GoSSIP
+  - [G.O.S.S.I.P 阅读推荐 2026-11-05 LocalAlign，通过近目标对抗训练提升提示注入防御泛化能力](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247502391&idx=1&sn=3d130bbece5130eb77c89760a75fedb6)
 - OnionSec
-  - [十年以后，我用 AI 重新完成了 2016 年的那个项目](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486125&idx=1&sn=24f980fe0b62794ac4c364556d84eab4)
+  - [当 AI 已经足够聪明，人类为什么还在成为瓶颈？](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486134&idx=1&sn=393a881b9fb6b943e90c524677a19ab8)
+- 吴鲁加
+  - [我看过的一些好文章](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486302&idx=1&sn=51cf55c8d7cd5f6150c095a24486594f)
+- 陌陌安全
+  - [陌陌安全 |  Q3 奖励结算](https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247489683&idx=1&sn=86504e891d55e502bc61e32e57667be8)
 - 网安寻路人
-  - [英伟达“51%”要求：海外算力访问为何需要计算中立与计算主权](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508993&idx=1&sn=f1de577dd7624c5aad157728c5ba4141)
+  - [解析Agent的 Harness设计逻辑（国标制定思路解析之三）](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508996&idx=1&sn=2a902af3cb7887506394ae1cd610c74c)
