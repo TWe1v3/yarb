@@ -1,36 +1,23 @@
-# 每日安全资讯（2026-11-08）
+# 每日安全资讯（2026-11-09）
 
-- SecWiki News
-  - [SecWiki News 2026-11-07 Review](http://www.sec-wiki.com/?2026-11-07)
 - 奇客Solidot–传递最新科技情报
-  - [ESA Hera 探测器发回 DART 撞击的小行星照片](https://www.solidot.org/story?sid=85825)
-  - [FAA 计划到 2028 年淘汰软盘](https://www.solidot.org/story?sid=85824)
-  - [抗议者闯入微软在欧洲的一处数据中心工地](https://www.solidot.org/story?sid=85823)
-  - [天宫即将迎来首位巴基斯坦宇航员](https://www.solidot.org/story?sid=85822)
-  - [广电总局整治 AI 低俗微短剧](https://www.solidot.org/story?sid=85821)
+  - [LG 因其智能电视监视用户面临法律诉讼](https://www.solidot.org/story?sid=85829)
+  - [太平洋垃圾带海水变得更蓝更绿](https://www.solidot.org/story?sid=85828)
+  - [微软移除了 PC 到 PC 的迁移功能](https://www.solidot.org/story?sid=85827)
+  - [台积电考虑进入内存行业](https://www.solidot.org/story?sid=85826)
 - 黑鸟
-  - [一个帮美国政府修电脑的IT，把绝密文件烧进CD带给了埃塞俄比亚](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189745&idx=1&sn=2acfe05790d7cafedc890666f01c5793)
-- 吾爱破解论坛
-  - [【开放注册公告】吾爱破解论坛2026年11月11日光棍节开放注册公告](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144807&idx=1&sn=38ff9375ad0d69d4b1a0489aff3032e5)
-- 我的安全视界观
-  - [我的读书笔记：优势从哪来，跟昨天的自己比](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488189&idx=1&sn=113a259b4221ccedd3d2c349665bf610)
-- 看雪学苑
-  - [给大模型装上固件审计员的骨架：一个 IoT 固件漏洞挖掘 Skill 的设计与实现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623857&idx=1&sn=4452ebefa4729f122b8231ff73cf22bc)
-  - [可验证·可复现·可规模化：AI驱动的Windows内核漏洞挖掘与Fuzzing实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458623857&idx=2&sn=b3443f79121f85fcc3dc523e92166330)
-- 天御攻防实验室
-  - [AI智能体现在能够自主攻破真实企业网络](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247487329&idx=1&sn=c0f4dd53d251b160ef4370da7aefa12c)
-- 安全学术圈
-  - [北京邮电大学 | 低语智能体：面向智能体互联网的事件驱动隐蔽通信协议](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247496158&idx=1&sn=09b0c23a8f59bfb30ffb51c9c177ca46)
-- 极客公园
-  - [实测 HY4：腾讯最「夯」大模型，离一线还有多远](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116182&idx=1&sn=d4d45a0cd14d25065292cdc5e195ad7c)
-  - [为什么「陪伴」，注定是 Personal AI 的核心](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116153&idx=1&sn=6c34d3e74a2612f319a0e2a7d6303243)
-  - [马斯克官宣 Cybertruck 停产：销量不足预期一成；李飞飞团队推出世界模型「模拟掌机」；小米汽车成立国际事业部｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116145&idx=1&sn=88085e9684f32488b5481683e798cfa0)
+  - [戴着睡眠头带监测睡眠，结果脑电波被拿去训练AI](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189761&idx=1&sn=a55068549a1f324e07216d5446212cc8)
+- 漏洞战争
+  - [AI 时代下还需要 Fuzzing 吗?](https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247486165&idx=1&sn=e565b02d12379e0a4b33fd49bbac6668)
 - 安全圈
-  - [【安全圈】点了「别再问我」，Claude Code 把密钥写进了公开仓库](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079734&idx=1&sn=ea38ca74c4cda25bed3333c763aeea6b)
-  - [【安全圈】补丁打完才安全？WordPress 更新窗口正被抢跑](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079734&idx=2&sn=71e1d2808ab34462f66cf9ae5f2aad67)
-  - [【安全圈】MFA 被绕过：SonicWall SSL-VPN 漏洞已在野利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079734&idx=3&sn=2f99700fdd78fa32d3f809352bd9b144)
-- 火绒安全
-  - [立冬 | 万物添冬韵 网安记心间](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538668&idx=1&sn=650c2566fb705a0d248fba01d670bbca)
-  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538668&idx=2&sn=63cbb14a854bb25afcc8ac0f7b642740)
-- 丁爸 情报分析师的工具箱
-  - [【会议】COSINT 2026 议程抢先看](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651157996&idx=1&sn=e2044be7d1578483afa910310d6292f5)
+  - [【安全圈】GPT-6 Cyber发布！漏洞挖掘成本降到千美元级别](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079766&idx=1&sn=a136a27f787a740a8706522b59e326c9)
+  - [【安全圈】Gnosis Pay用户数据泄露！卡号CVV钱包地址全曝光](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079766&idx=2&sn=cd94ac373cb548a747530b88b9d59ddb)
+  - [【安全圈】ARTEX渗透框架闭源！微步在线声明版权收购](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079766&idx=3&sn=987af32e93ea7154cfe5fbf903e7e9dd)
+- 极客公园
+  - [收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116204&idx=1&sn=e4bed63274b937ce9ebc94df50c39b28)
+- 吴鲁加
+  - [科幻](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486312&idx=1&sn=ddd6fd1d92b7df9d8c7179e57856912a)
+- 我的安全视界观
+  - [AI 渗透 20 轮：5 条链打通，12 条链卡住](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488202&idx=1&sn=1e79186c93846c8edad343f259d13955)
+- 希潭实验室
+  - [第178篇：AI智能体失控自动化入侵Hugging Face的k8s网络案例分析（中篇）](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247488663&idx=1&sn=1b65410e8d5e11c4aabccd726a73ae1e)
