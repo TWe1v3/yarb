@@ -1,29 +1,37 @@
-# 每日安全资讯（2026-11-15）
+# 每日安全资讯（2026-11-16）
 
 - 奇客Solidot–传递最新科技情报
-  - [美国失去麻疹消除地位](https://www.solidot.org/story?sid=85889)
-  - [天问四号将尝试登陆木卫四](https://www.solidot.org/story?sid=85887)
-  - [微软云服务宕机持续逾 24 小时](https://www.solidot.org/story?sid=85886)
-  - [美国历史上第三次航班大停飞](https://www.solidot.org/story?sid=85884)
-- Chen's Blog
-  - [快是时代的，慢可以是自己的](https://gh0st.cn/archives/2026-11-15/1)
-- 黑海洋 - AI工具与技术教程｜免费资源与开发实战
-  - [Deva：一个对话带起一支 AI 团队，把 Agent 能力装进桌面聊天框](https://blog.upx8.com/Deva-AI-Agent)
+  - [SpaceX 成功回收火箭上面级](https://www.solidot.org/story?sid=85893)
+  - [意大利因 Meta 侵犯用户隐私对其处以 8.05 亿欧元罚款](https://www.solidot.org/story?sid=85892)
+  - [香港迪士尼乐园 1.7 万张电子门票被盗](https://www.solidot.org/story?sid=85891)
+  - [亚洲象种群数量减少变得更孤立](https://www.solidot.org/story?sid=85890)
 - 黑鸟
-  - [当大模型坐上攻击总指挥：五个AI攻击框架如何串成入侵流水线](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189841&idx=1&sn=3fa6d2cfa3a1cd67beb2e93b1f2dfd8d)
-- 看雪学苑
-  - [记一次完整的 Zelix KlassMaster 本体逆向与源码级反混淆实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624224&idx=1&sn=34cf91f01b35defaf5eb80f5bfea1ab2)
-  - [利用AI人工智能辅助逆向分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624224&idx=2&sn=e3b42d1f79c2b5195c45227de6f37c61)
-- 极客公园
-  - [OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116462&idx=1&sn=bc6f7a926f6d3e4b6aa34c92113f8bd1)
-  - [马斯克称将签名支持黄仁勋复职；OpenAI 推 ChatGPT 钱包；微软全球服务故障第二天仍未恢复｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116455&idx=1&sn=bfda6177d812255490df5c1ce25996b3)
-- 云鼎实验室
-  - [暴增 56%：智能体攻击如何识别与防护？](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247498106&idx=1&sn=b41d30798498b9c8cbad809cc783c81c)
+  - [当机场成为情报前线：拒绝情报合作之后的申根通行困境](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451189847&idx=1&sn=12e248061ab7d469a33a2bbda6f617ad)
+- 先知安全技术社区
+  - [CVE-2026-115938：Craft CMS 5.11.1 Twig 沙箱逃逸到 RCE 复现](https://xz.aliyun.com/news/93336)
+  - [《Pwn 堆利用实战：House of Lore —— 从自出题 my_lore 到 getshell 全流程》](https://xz.aliyun.com/news/93334)
+- 君哥的体历
+  - [北平的秋天，随便一拍都美如画](https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492679&idx=1&sn=1cd782c5f4a6e7264b9b319f11870984)
+- 奶牛安全
+  - [数据泄露情报2026.11.15：第三大晶圆厂日本](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247490147&idx=1&sn=4fb83eba68ac540c5b86f11bc43d63ff)
+  - [数据泄露情报2026.11.15：第三大晶圆厂日本环球晶圆内部资料](https://mp.weixin.qq.com/s?__biz=MzU4NjY0NTExNA==&mid=2247490140&idx=1&sn=a343b7e88ee97a87a65b0f547dc1ba6f)
+- 我的安全视界观
+  - [AI渗透：它做对了什么，又在哪里把我带偏？](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488248&idx=1&sn=1a763e086ee1b048aa8f60420efe301d)
+- 安全研究GoSSIP
+  - [G.O.S.S.I.P 特别推荐 2026-11-15 FuzzAnything: 下一代OSS-Fuzz，为代码迷宫打开更多入口](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247502504&idx=1&sn=796516b8daaf7de374833217bb29caf2)
 - 安全圈
-  - [【安全圈】Apify 遭入侵后轮换 API 令牌并提示重置 2FA](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079867&idx=1&sn=4e99bc635bacadfa5b83cd3cbb95d05b)
-  - [【安全圈】黑客在 Linux 服务器上植入 GSocket 以维持持久访问](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079867&idx=2&sn=dd67e8e23c7cba109cc590ae80f5b165)
-  - [【安全圈】新的 Windows SignDrop 零日漏洞让黑客获得 SYSTEM 权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079867&idx=3&sn=d0d6461160d63e9c129885f1d09e0e98)
+  - [【安全圈】台积电证实部分员工资料泄露，黑客开价3枚比特币兜售](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079884&idx=1&sn=4955203b3c4b7745ccacfa6a06f44631)
+  - [【安全圈】珠宝品牌周生生遭黑客攻击：官网打不开、小程序用不了](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079884&idx=2&sn=92a9b89164638b06321978005d689a06)
+  - [【安全圈】网约车平台 Uber 优步遭黑客攻击，致美国多州司机驾照信息外泄](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079884&idx=3&sn=0a6b6bcc5e3ef8b7a0a27d0d4b267a74)
+- 极客公园
+  - [造物 100 #13｜落地灯替你叠衣服、可抽拉主板的 NAS、让机械手表「开智」的 AI 黑科技](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116488&idx=1&sn=74296fd963161f7dad05334dd1c2e1c4)
+  - [从认识彼此，到一起做有价值的事](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116488&idx=2&sn=18938311eab6f6d73e1dbbab000047a0)
+  - [传小米联手 AMG 之父，打造极致性能车；SpaceX 首次实现筷子夹飞船；「苹果最暗产品」诞生 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116475&idx=1&sn=5aa2c9cce6a9fa87a5dd4d6837848314)
 - 安全分析与研究
-  - [Agent双向认证与零信任](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497352&idx=1&sn=7230132b4a04bc970d8de3b406548f5b)
-- OnionSec
-  - [换掉了用了六年的漱口杯](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486279&idx=1&sn=bb916900fb57511a5fad56f87cd5dc6c)
+  - [可验证凭证与去中心化Agent身份](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497353&idx=1&sn=092d1495f45e6ff111ea2eb484f21d5e)
+- 表图
+  - [AI 漏洞利用能力越过拐点，安全防护产品即将迎来一波强劲需求](https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247485230&idx=1&sn=04124a4f5c3ae8f5b4cc51958281f9c0)
+- 吴鲁加
+  - [创业笔记 973：不可忽视的网络安全](https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247486334&idx=1&sn=1c8c139223dea30b0656e758b102ad73)
+- 丁爸 情报分析师的工具箱
+  - [【资料】最新CIA的情报研究杂志内容介绍](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651158051&idx=1&sn=dadacb4c60fc7a13282aee499f28c8e7)
