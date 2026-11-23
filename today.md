@@ -1,30 +1,42 @@
-# 每日安全资讯（2026-11-22）
+# 每日安全资讯（2026-11-23）
 
 - 奇客Solidot–传递最新科技情报
-  - [地球 28 光年外发现一个三星系统](https://www.solidot.org/story?sid=85955)
-  - [人类免疫系统衰老在 40 岁和 60 岁后会加速](https://www.solidot.org/story?sid=85954)
-  - [夜空中的人造卫星轨迹](https://www.solidot.org/story?sid=85953)
-  - [人类数学家匆忙发布广义黎曼猜想的证明手稿](https://www.solidot.org/story?sid=85952)
-  - [GTA 6 首日销售额达到创纪录的 37.9 亿美元](https://www.solidot.org/story?sid=85951)
-  - [为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织](https://www.solidot.org/story?sid=85950)
-- 青衣十三楼飞花堂
-  - [一款单文件静态链接版Web Terminal](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247490095&idx=1&sn=3021374c9c6d54645f2dff88abdea78c)
+  - [Anthropic 到 2028 年使用的电力 98% 来自化石燃料](https://www.solidot.org/story?sid=85959)
+  - [Waymo 无人驾驶出租车因旧金山洪水而陷入困境](https://www.solidot.org/story?sid=85958)
+  - [地球捕获了一颗迷你月球](https://www.solidot.org/story?sid=85957)
+  - [丰田尼桑本田同意标准化零部件以降低成本](https://www.solidot.org/story?sid=85956)
+- 白帽Wiki - 一个简单的wiki
+  - [[2026]不要追踪我 浏览器插件](https://key08.com/index.php/2026/11/23/3407.html)
+- 长亭安全应急响应中心
+  - [【已复现】无需凭据获取管理员会话——VMware vCenter 认证绕过漏洞（CVE-2026-123890）](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493574&idx=2&sn=fa6556997dc76f69e9fe5503d753a9fe)
+  - [【已复现】帆软 FineReport FVS 插件复用资源导入未授权远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493574&idx=1&sn=c30ca613b32361daac820495c188a69c)
 - 黑鸟
-  - [一场专挑iPhone下手的恶意广告行动](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451190006&idx=1&sn=83db193b27264e4becfc1408c81f0822)
-- 安全研究GoSSIP
-  - [ACM CCS 2026 参会小记（4）：微信小程序的密码学安全问题](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247502602&idx=1&sn=e1711bef9b7d43c0a00d021df58528bd)
-- 看雪学苑
-  - [检测大全：Android 检测对抗源码级实战（配套3大自研工具）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624361&idx=2&sn=2800d8886b3a066443eebb5968737646)
-  - [PHP2Shell（CVE-2026-109618）UAF 路径分析与隔离环境复现记录](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458624361&idx=1&sn=35c1bfcaa62d03b1ebed692d70c5a7f0)
-- 极客公园
-  - [清华博士做了一款 AI 懒人办公神器，30 天众筹 130 万美元](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116927&idx=1&sn=fccb701b697ab4282ed4d231f42b677b)
-  - [关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116908&idx=1&sn=db1021bcba9e5f9a21ab494798b8ebd1)
-  - [林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116901&idx=1&sn=5a5337f17993468b99814a63203b38d3)
+  - [Windows 11 记录你用什么AI写代码](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451190020&idx=1&sn=2ad989b653616f2f77826889c1ec0081)
+- 我的安全视界观
+  - [AI渗透：没拿到 shell，数据面反而更值钱](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247488284&idx=1&sn=9b6424ab05a91ce286ea6c9fead83c98)
+- 梦之光芒的电子梦
+  - [安全可控蓝军Agents体系建设](https://mp.weixin.qq.com/s?__biz=MzUyODQ0MTE2MQ==&mid=2247483816&idx=1&sn=c451b03c3aec357e4bd5211312682269)
+- 青衣十三楼飞花堂
+  - [新定义--无常数项整式的跨度、距离(传说是海淀2026初一上期中)](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247490099&idx=1&sn=6358146be73725639f91fe27c1a707f2)
 - 安全圈
-  - [【安全圈】安卓恶意框架Bazuka曝光：截屏假锁屏掩护盗窃集成AI评分](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079967&idx=3&sn=97d432e3da143b3dec3677290d6a03eb)
-  - [【安全圈】黑客部署自主AI智能体：11分钟自挖0day攻陷服务器夺Root](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079967&idx=2&sn=85167f3d14ddd041423b52b5fed14503)
-  - [【安全圈】Linux KVM曝高危逃逸漏洞：虚机跨租户直读宿主机127GB内存](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652079967&idx=1&sn=38dfa6a339d62a690035a68d6f9dad4c)
+  - [【安全圈】AI工具打进欧盟委员会，HR系统停摆10天](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080017&idx=3&sn=e011a548515da4f906b2a03b32765abd)
+  - [【安全圈】UAC被曝蠢到离谱的绕过，微软不分配CVE](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080017&idx=2&sn=c4ef9c02feb49f867d9b5e707a06405a)
+  - [【安全圈】单月1130起勒索，3.11亿条数据被挂牌](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652080017&idx=1&sn=70d92ae03f620a7ace3b8888d687816a)
+- 奇安信 CERT
+  - [【已复现】Artifex Ghostscript -dSAFER 沙箱绕过漏洞(CVE-2026-125396)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247508224&idx=1&sn=2ab11be61822d4389080836c4f6663af)
+- 极客公园
+  - [造物 100 #14｜给狗买个机器人保姆、在手机背后偷偷养宠物、键盘鼠标合二为一](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116957&idx=1&sn=3e1f22fdfd08a37e67878bde367c14d9)
+  - [黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653116938&idx=1&sn=7fe7f91d43bbb5ac2d41b802166748cb)
+- 火绒安全
+  - [诚邀渠道合作伙伴共启新征程](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538929&idx=2&sn=50f68f07d5a53a29279168033cdf2b8d)
+  - [小雪 | 小雪至 天渐寒 火绒守护不降温](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247538929&idx=1&sn=fa0d86ffa8aa28d7057393ae2902eb34)
 - 安全分析与研究
-  - [Agent凭证生命周期与轮换安全](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497354&idx=1&sn=92b88319326f66cc65b982509f1843e5)
-- OnionSec
-  - [我开始理解二平方和定理，是因为有人没有急着告诉我答案](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247486354&idx=1&sn=bf04b8d3f8f8c0b0b615c07fa906e7ee)
+  - [跨域间接提示注入形式化建模](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497355&idx=1&sn=ddfb08256c271d8101aa6b540ff17472)
+- Medi0cr1ty
+  - [南京的秋果然好品](https://mp.weixin.qq.com/s?__biz=Mzg5ODE3NTU1OQ==&mid=2247484550&idx=1&sn=502dffdb6993b3ede074e59fe3bad62e)
+- T00ls安全
+  - [T00ls论坛 注册邀请码校验绕过复现](https://mp.weixin.qq.com/s?__biz=Mzg3NzYzODU5NQ==&mid=2247485942&idx=1&sn=805600ca12ecea3eefec2105fb4ccf3e)
+- 丁爸 情报分析师的工具箱
+  - [【资料】情报研究指南](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651158088&idx=2&sn=09ddf1079aae1d34f92fd2a7b1b1bc20)
+  - [【开源报告】开源情报基金会（OSINT Foundation）机构调研报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651158088&idx=1&sn=9be5e0d37772aba97c0f0f48607d3933)
+  - [【开源报告】全球开源情报（OSINT） 活动生态与区域发展 调研报告](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651158080&idx=1&sn=52660aba601a781b5993e385aa14a172)
